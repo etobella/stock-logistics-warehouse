@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="warehouse" model="stock.warehouse">
+        <field name="name">Warehouse</field>
+        <field name="code">WH2</field>
+    </record>
+
+</odoo>
+
